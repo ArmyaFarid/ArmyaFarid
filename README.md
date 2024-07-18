@@ -1,16 +1,13 @@
-## Hi , I build softwares
+## Hi there 👋
 
-<!--
-**ArmyaFarid/ArmyaFarid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Farid Bakouan, a dedicated software developer with a focus on building robust and innovative software solutions using UX principles and modern technologies.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on developing a smart video editor SaaS based on voice activity using AI.
+- 🌱 I’m currently learning advanced Node.js and TypeScript techniques.
+- 👯 I’m looking to collaborate on innovative tech projects, especially those involving AI and SaaS.
+- 💬 Ask me about full-stack development, project management, and AI integration.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/farid-bakouan/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy exploring new tech trends and their societal impacts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/farid-bakouan/)
