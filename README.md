@@ -1,14 +1,18 @@
 ## Hi there 👋
 
-I'm Farid Bakouan, a dedicated software developer with a focus on building robust and innovative software solutions using UX principles and modern technologies.
+I'm Farid Bakouan, a Full-Stack Software Architect and AI Researcher. I bridge the gap between robust software engineering and advanced Computer Vision to build high-performance intelligent systems.
 
-- I have 2 years experience in web apps development.
--  I’m currently working as a fullstack swe in a tech company.
-- 🔭 I’m currently working on improving my smart video editor SaaS based on voice activity using AI.
-- 👯 I’m looking to collaborate on innovative tech projects, especially those involving AI and SaaS.
-- 💬 Ask me about full-stack development, project management, and AI integration.
-- Most of my repo are private , so dm me if you want to evaluate my works.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/farid-bakouan/)
-- ⚡ Fun fact: I enjoy exploring new tech trends and their societal impacts.
+- 🎓 **Current Focus:** Graduate Student Researcher in AI and Computer Vision applied to **Quantitative Petrography** (Automated mineral analysis, grain segmentation, and micro-imaging optimization).
+- 💻 **Industry Experience:** Full-Stack Software Engineer with a strong background in building scalable desktop/web architectures (Vite, React, TypeScript, Electron).
+- 🔭 **Active Projects:** Developing high-performance canvas-based interactive tools and optimizing deep learning models (PyTorch, SAM 2) for automated geological data collection.
+- 👯 **Collaboration:** Open to collaborating on innovative AI/Computer Vision research, advanced UI architectures, or SaaS scaling.
+- 💬 **Ask me about:** Image segmentation, perceptual metrics, full-stack desktop architectures, and optimizing ML inference cycles.
+- 🔒 *Note: Most of my active research and commercial repositories are private. Please reach out directly if you would like to evaluate my technical work.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/farid-bakouan/)
+### 🛠️ Tech Stack & Tooling
+* **AI / Research:** PyTorch, Computer Vision (SAM 2), Deep Learning, Model Evaluation Metrics
+* **Frontend & Architecture:** TypeScript, React, Vite, Object-Oriented Canvas Rendering
+* **Desktop & Backend:** Electron, Node.js, Secure Database Segmentation
+
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/farid-bakouan/)
